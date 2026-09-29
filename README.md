@@ -1,1 +1,9 @@
-# software-engineering-notes-
+# Software Engineering Notes
+
+A collection of notes and practical examples for studying software development, covering data structures, language fundamentals, and algorithm complexity across JavaScript, Java, and Python.
+
+## Study Guides
+
+- [JavaScript — Data Structures and Fundamentals](javascript/data-structures.md)
+- [Java — Data Structures and Fundamentals](java/java-data-structures.md)
+- [Python — Data Structures and Fundamentals](python/data-structures.md)
