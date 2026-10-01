@@ -1,6 +1,6 @@
 # Software Engineering Notes
 
-A collection of notes and practical examples for studying software development, covering data structures, language fundamentals, algorithm complexity, and the basics of React and Django.
+A collection of notes and practical examples for studying software development, covering data structures, language fundamentals, algorithm complexity, and the basics of React, Django, Node.js, and FastAPI.
 
 ## Study Guides
 
@@ -9,3 +9,5 @@ A collection of notes and practical examples for studying software development, 
 - [Python — Data Structures and Fundamentals](python/data-structures.md)
 - [React — Fundamentals](react/fundamentals.md)
 - [Django — Fundamentals](django/fundamentals.md)
+- [Node.js — Fundamentals](node/fundamentals.md)
+- [FastAPI — Fundamentals](fastapi/fundamentals.md)
