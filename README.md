@@ -8,6 +8,7 @@ A collection of notes and practical examples for studying software development, 
 - [Java — Data Structures and Fundamentals](java/java-data-structures.md)
 - [Python — Data Structures and Fundamentals](python/data-structures.md)
 - [React — Fundamentals](react/fundamentals.md)
+- [React — TypeScript Tips](react/typescript-tips.md)
 - [Django — Fundamentals](django/fundamentals.md)
 - [Node.js — Fundamentals](node/fundamentals.md)
 - [FastAPI — Fundamentals](fastapi/fundamentals.md)
